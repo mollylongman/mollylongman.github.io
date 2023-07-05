@@ -1,4 +1,4 @@
-##Hi — welcome to my site. 
+<h1>Hi — welcome to my site.</h1>
 
 Here, you'll find my personal website on GitHub, which I'll be updating with cool projects and information periodically. 
 
